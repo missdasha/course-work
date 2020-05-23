@@ -1099,5 +1099,8 @@ footer {
             margin-right: 10px;
         }
 
+        .tag {
+            padding: 3px 3px;
+        }
     }
 }
